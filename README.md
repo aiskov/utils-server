@@ -2,5 +2,10 @@
 
 ## Usage
 
-  /pdf?url=<url>
-  /img?url=<url>
+Convert web page to PDF:
+
+    /pdf?url=<url>
+
+Convert web page to IMG:
+
+    /img?url=<url>
