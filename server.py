@@ -15,7 +15,7 @@ from cStringIO import StringIO
 """
 apt-get install python-pip
 apt-get build-dep python-imaging
-apt-get install libjpeg8 libjpeg62-dev libfreetype6 libfreetype6-dev
+apt-get install libjpeg8 libjpeg62-dev libfreetype6 libfreetype6-dev fonts-liberation
 pip install Pillow
 """
 
